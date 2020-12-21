@@ -1,3 +1,7 @@
+# Isogeometric Analysis
+
+This repo is just to organize code to implement isogeometric analysis. There is no guarantee any of this code will work as it is being explored as a hobby project by the collaborators. As of now much of the project will be completed using the Julia language if possible. 
+
 # Reference List
 
 Note: This list is subject to change as I read through the material
